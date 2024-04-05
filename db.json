@@ -1,0 +1,185 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "title": "Highway to Hell",
+      "group": "AC/DC",
+      "album": "Highway to Hell",
+      "album_image": "acdc-highway-to-hell.jpg",
+      "music_path": "acdc-highway-to-hell.mp3",
+      "year": 1979,
+      "genre": "Hard Rock"
+    },
+    {
+      "id": 2,
+      "title": "Paranoid",
+      "group": "Black Sabbath",
+      "album": "Paranoid",
+      "album_image": "black-sabbath-paranoid.jpg",
+      "music_path": "black sabbath-paranoid.mp3",
+      "year": 1970,
+      "genre": "Heavy Metal"
+    },
+    {
+      "id": 3,
+      "title": "It's my life",
+      "group": "Bon Jovi",
+      "album": "Crush",
+      "album_image": "bon-jovi-crush.jpg",
+      "music_path": "bon-jovi-Its-my-life.mp3",
+      "year": 2000,
+      "genre": "Rock"
+    },
+    {
+      "id": 4,
+      "title": "American Idiot",
+      "group": "Green Day",
+      "album": "Green day american idiot",
+      "album_image": "green-day-american-idiot.jpg",
+      "music_path": "green-day-american-idiot.mp3",
+      "year": 2004,
+      "genre": "Punk Rock"
+    },
+    {
+      "id": 5,
+      "title": "Welcome to the jungle",
+      "group": "Guns N' Roses",
+      "album": "Appetite for Destruction",
+      "album_image": "guns-n-roses-appetite-for-destruction.jpg",
+      "music_path": "guns-n-roses-welcome-to-the-jungle.mp3",
+      "year": 1987,
+      "genre": "Hard Rock"
+    },
+    {
+      "id": 6,
+      "title": "The trooper",
+      "group": "Iron Maiden",
+      "album": "Piece of Mind",
+      "album_image": "iron-maiden-piece-of-mind.jpg",
+      "music_path": "iron-maiden-the-trooper.mp3",
+      "year": 1983,
+      "genre": "Heavy Metal"
+    },
+    {
+      "id": 7,
+      "title": "Faint",
+      "group": "Linkin Park",
+      "album": "Meteora",
+      "album_image": "linkin-park-meteora.jpg",
+      "music_path": "linkin-park-faint.mp3",
+      "year": 2003,
+      "genre": "Alternative Rock"
+    },
+    {
+      "id": 8,
+      "title": "Master of Puppets",
+      "group": "Metallica",
+      "album": "Master of Puppets",
+      "album_image": "metallica-master-of-puttets.jpg",
+      "music_path": "metallica-master-of-puppets.mp3",
+      "year": 1986,
+      "genre": "Thrash Metal"
+    },
+    {
+      "id": 9,
+      "title": "Rockstar",
+      "group": "Nickelback",
+      "album": "All the Right Reasons",
+      "album_image": "nickelback-all-the-right-reasons.jpg",
+      "music_path": "nickelback-rockstar.mp3",
+      "year": 2005,
+      "genre": "Rock"
+    },
+    {
+      "id": 10,
+      "title": "Smells like teen spirit",
+      "group": "Nirvana",
+      "album": "Nevermind",
+      "album_image": "nirvana-nevermind.jpg",
+      "music_path": "nirvana-smells-like-teen-spirit.mp3",
+      "year": 1991,
+      "genre": "Alternative Rock"
+    },
+    {
+      "id": 11,
+      "title": "Californication",
+      "group": "Red Hot Chili Peppers",
+      "album": "Californication",
+      "album_image": "red-hot-chili-peppers-californication.jpg",
+      "music_path": "red-hot-chili-peppers-californication.mp3",
+      "year": 1999,
+      "genre": "Alternative Rock"
+    },
+    {
+      "id": 12,
+      "title": "Numb",
+      "group": "Linkin Park",
+      "album": "Meteora",
+      "album_image": "linkin-park-meteora.jpg",
+      "music_path": "linkin-park-numb.mp3",
+      "year": 2003,
+      "genre": "Alternative Rock"
+    },
+    {
+      "id": 13,
+      "title": "Chop Suey!",
+      "group": "System of a Down",
+      "album": "Toxicity",
+      "album_image": "sistem-of-down-toxicity.jpg",
+      "music_path": "system-of-a-down- chop-suey!.mp3",
+      "year": 2001,
+      "genre": "Alternative Metal"
+    },
+    {
+      "id": 14,
+      "title": "Duality",
+      "group": "Slipknot",
+      "album": "All Hope Is Gone",
+      "album_image": "slipknot-all-hope-is-gone.jpg",
+      "music_path": "slipknot-duality",
+      "year": 2008,
+      "genre": "Heavy Metal"
+    },
+
+    {
+      "id": 15,
+      "title": "Somebody told me",
+      "group": "The Killers",
+      "album": "Hot Fuss",
+      "album_image": "the-killers-hot-fuss.jpg",
+      "music_path": "the-killers-somebody-told-me.mp3",
+      "year": 2004,
+      "genre": "Alternative Rock"
+    },
+    {
+      "id": 16,
+      "title": "The Kids Aren't Alright",
+      "group": "The Offspring",
+      "album": "Americana",
+      "album_image": "the-offspring-americana.jpg",
+      "music_path": "the-offspring-the-kids-are.mp3",
+      "year": 1998,
+      "genre": "Punk Rock"
+    },
+    {
+      "id": 17,
+      "title": "Back in Black",
+      "group": "AC/DC",
+      "album": "Back in Black",
+      "album_image": "acdc-back-in-black.jpg",
+      "music_path": "acdc-back-in-black.mp3",
+      "year": 1980,
+      "genre": "Hard Rock"
+    },
+    {
+      "id": 18,
+      "title": "In The End",
+      "group": "Linkin Park",
+      "album": "Meteora",
+      "album_image": "linkin-park-meteora.jpg",
+      "music_path": "linkin-park-in-the-end.mp3",
+      "year": 2003,
+      "genre": "Alternative Rock"
+    }
+  ]
+}
